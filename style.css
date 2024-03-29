@@ -5,8 +5,8 @@
   box-sizing: border-box;
 }
 html {
-  scrollbar-width: thin;
-  scrollbar-color: #8b92a5 black;
+/*   scrollbar-width: thin;
+  scrollbar-color: #8b92a5 black; */
   background: url('./background.jpg') bottom center;
   background-size: cover;
 }
